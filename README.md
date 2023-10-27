@@ -3,6 +3,8 @@
 
 项目将于10月31日生日当天进行上传
 
+The project will be uploaded on October 31, his birthday
+
 ## 0x01 编写思路
 
 使用rss.yaml文件来存储RSS订阅地址和相关名称。
