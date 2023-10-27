@@ -85,6 +85,24 @@ python Rss_monitor.py
 
 After running the program, the articles.db database file is generated to store the pushed articles.
 
+
+### 程序推送结果：
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZeclibJDa6s6qg8DwVTpZVEWTyfkPODftgAQP2bmHX16mflp3C7tqBib9cAe47dVaBam9xt4f21bO2A/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+
+钉钉消息推送没问题
+
+![图片](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZeclibJDa6s6qg8DwVTpZVEWXGAtJPicEfs3TiaBlAvia5CnPSrzuHCWp0gH1icj1rnxT8BfhcENfEJV6g/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+
+pushplus推送没问题
+
+
+
+至于其他的TG以及server酱，和飞书，因为没有相应环境也就没有进行测试，相关的推送代码实现已经写在Rss_monitor.py中。自寻进行修改即可。
+
+<u></u>
+
+
 #  
 当然这个RSS订阅多渠道推送程序不止用来推送安全社区的文章，反正用处很多，自寻研究吧，觉得该项目不错的话，麻烦给一个star或者fork到自己仓库进行二开
 
