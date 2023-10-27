@@ -90,17 +90,18 @@ After running the program, the articles.db database file is generated to store t
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZeclibJDa6s6qg8DwVTpZVEWTyfkPODftgAQP2bmHX16mflp3C7tqBib9cAe47dVaBam9xt4f21bO2A/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-钉钉消息推送没问题
+钉钉推送没问题 | Dingding push no problem 
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZeclibJDa6s6qg8DwVTpZVEWXGAtJPicEfs3TiaBlAvia5CnPSrzuHCWp0gH1icj1rnxT8BfhcENfEJV6g/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-pushplus推送没问题
+pushplus推送没问题 | pushplus is no problem
 
 
+至于其他的TG_Bot以及server酱，和飞书，因为没有相应环境也就没有进行测试，相关的推送代码实现已经写在Rss_monitor.py中。自寻进行修改即可。
 
-至于其他的TG以及server酱，和飞书，因为没有相应环境也就没有进行测试，相关的推送代码实现已经写在Rss_monitor.py中。自寻进行修改即可。
+As for the other TG_Bot, server sauce, and Flybook, the relevant push code implementation has been written in Rss_monitor.py because there is no corresponding environment and it has not been tested. You can modify it yourself.
 
-<u></u>
+
 
 
 #  
