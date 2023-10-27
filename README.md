@@ -70,11 +70,11 @@ pip install -r requirements.txt
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZfsQbNu18WVZq52MFWZneZk1ticib6YscmiapaJDjefQExxjmOMhEQhJlYOJlUTYNbdXyps6tVLvUZRw/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
 
-4.最后直接运行sec_monitor.py即可，运行效果图如下。
+4.最后直接运行Rss_monitor.py即可，运行效果图如下。
 
-4. Finally, run sec_monitor.py directly. The running effect is as follows.
+4. Finally, run Rss_monitor.py directly. The running effect is as follows.
 ```
-python sec_monitor.py
+python Rss_monitor.py
 ```
 
 ![图片](https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZfsQbNu18WVZq52MFWZneZkxdibOkr4ZQtPfibhUO1UjOf9Fk6scb6MB93ws1GnWeW7ice2ticCNIQX8w/640?wx_fmt=jpeg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
