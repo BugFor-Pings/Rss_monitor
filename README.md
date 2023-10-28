@@ -3,9 +3,6 @@
 
 Self-written RSS subscription article push program, support multiple platforms push
 
-项目将于10月31日生日当天进行上传
-
-The project will be uploaded on October 31, his birthday
 
 ## 0x01 编写思路
 
