@@ -1,0 +1,30 @@
+#################################################################
+#                  1.本项目支持多渠道同时推送                   #
+#                  2.需要将相关配置填好                         #
+#                  3.需要将推送渠道的开关设置为ON               #
+#                    作者：Pings                                #
+#                   时间：2023-10-10                            #
+#################################################################
+push:
+  dingding:
+    webhook: "https://oapi.dingtalk.com/robot/send?access_token=你的token"
+    secret_key: "你的Key"
+    app_name: "钉钉"
+    switch: "ON"  # 设置开关为 "ON" 进行推送，设置为其他值则不进行推送
+  feishu:
+    webhook: "飞书的webhook地址"
+    app_name: "飞书"
+    switch: "OFF"
+  server_chan:
+    sckey: "Server酱的sckey"
+    app_name: "Server酱"
+    switch: "OFF"
+  pushplus:
+    token: "token地址"
+    app_name: "PushPlus"
+    switch: "OFF"
+  tg_bot:
+    token: "Telegram Bot的token"
+    group_id: "Telegram Bot的group_id"
+    app_name: "Telegram Bot"
+    switch: "OFF"   

@@ -1,0 +1,10 @@
+requests
+sqlite3 
+dingtalkchatbot
+pyyaml
+lxml
+feedparser
+cb
+time 
+datetime
+telegram
