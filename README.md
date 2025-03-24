@@ -3,6 +3,9 @@
 
 Self-written RSS subscription article push program, support multiple platforms push
 
+####  BUG部分：Rss地址不要过多，否则跑几天过后就不进行推送了，我发现了这个bug，但是人太懒了，确实不太想修了
+
+####  能接受这个Bug问题的就用吧，或者自己二开一下就行
 
 ## 0x01 编写思路
 
